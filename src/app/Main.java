@@ -5,7 +5,7 @@ public class Main {
     static double number2;
     static double sum;
     public static void main(String[] args) {
-        System.out.println("I actually used main");
+        System.out.println("I actually used main and changed app info");
 
         number1 = 1;
 
