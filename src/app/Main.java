@@ -6,7 +6,7 @@ public class Main {
     static double sum;
     static double times;
     public static void main(String[] args) {
-        System.out.println("I actually used main");
+        System.out.println("I actually used main. I am changing sout");
 
         number1 = 1;
 
