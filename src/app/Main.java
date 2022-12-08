@@ -6,7 +6,7 @@ public class Main {
     static double sum;
     public static void main(String[] args) {
         System.out.println("I actually used main and changed app info");
-
+        System.out.println("This app shows you addition");
         number1 = 1;
 
         number2 = 2;
